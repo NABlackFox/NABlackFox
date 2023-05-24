@@ -3,6 +3,9 @@
 
 - 📫 How to reach me **thanhchem.pro@gmail.com**
 
+<h3 align="left">About Me:</h3>
+<p align="left">I'm a passionate software engineer with a strong interest in building innovative solutions. Currently pursuing my degree in software engineering at RMIT University, I'm dedicated to expanding my knowledge and skills in various areas of software development. I enjoy working on challenging projects that involve problem-solving and creativity. Apart from coding, I also have a keen interest in graphic design and enjoy using tools like Photoshop to create visually appealing designs.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/user:21923786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21923786" height="30" width="40" /></a>
