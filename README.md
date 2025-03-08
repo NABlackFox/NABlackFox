@@ -4,7 +4,9 @@
 - 📫 How to reach me **thanhchem.pro@gmail.com**
 
 <h3 align="left">About Me:</h3>
-<p align="left">I'm a passionate software engineer with a strong interest in building innovative solutions. Currently pursuing my degree in software engineering at RMIT University, I'm dedicated to expanding my knowledge and skills in various areas of software development. I enjoy working on challenging projects that involve problem-solving and creativity. Apart from coding, I also have a keen interest in graphic design and enjoy using tools like Photoshop to create visually appealing designs.</p>
+<p align="left">I am currently a software engineering student at RMIT Vietnam. I am interested in embedded systems and IoT, with some experience coding on Arduino boards. I am also learning about the Raspberry Pi and exploring its kernel programming applications.
+
+Additionally, I am developing a Discord bot for my own server and hosting it on a Raspberry Pi. In my free time, I am learning GDScript and the Godot engine to create my own games. I also have some experience in 2D pixel art.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
