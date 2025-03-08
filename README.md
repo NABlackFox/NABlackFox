@@ -4,9 +4,9 @@
 - 📫 How to reach me **thanhchem.pro@gmail.com**
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am currently a software engineering student at RMIT Vietnam. I am interested in embedded systems and IoT, with some experience coding on Arduino boards. I am also learning about the Raspberry Pi and exploring its kernel programming applications.
+<p align="left">I am currently a software engineering student at RMIT Vietnam. I am interested in embedded systems and IoT, mainly using C and C++ for embedded system development. I also have experience coding on Arduino boards and am learning about the Raspberry Pi, exploring its kernel programming applications.
 
-Additionally, I am developing a Discord bot for my own server and hosting it on a Raspberry Pi. In my free time, I am learning GDScript and the Godot engine to create my own games. I also have some experience in 2D pixel art.</p>
+Additionally, I am developing a Discord bot for my own server, using JavaScript, and hosting it on a Raspberry Pi. I also have experience with intermediate Python for AI development. In my free time, I am learning GDScript and the Godot engine to create my own games. I also have some experience in 2D pixel art and sprite drawing.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
