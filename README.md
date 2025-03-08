@@ -4,7 +4,7 @@
 ### 📝 About Me:
 I am currently a software engineering student at RMIT Vietnam. I am interested in embedded systems and IoT, mainly using **C and C++** for embedded system development. I also have experience coding on **Arduino boards** and am learning about the **Raspberry Pi**, exploring its kernel programming applications.
 
-Additionally, I am developing a **Discord bot** for my own server, using **JavaScript**, and hosting it on a Raspberry Pi. I also have experience with **intermediate Python for AI development**. In my free time, I am learning **GDScript and the Godot engine** to create my own games. I also have some experience in **2D pixel art and sprite drawing**.
+Additionally, I am developing a **Discord bot** for my own server, using **JavaScript**, and hosting it on a Raspberry Pi. I also have experience with **intermediate Python for AI development**. In my free time, I am learning **GDScript and the Godot engine** to create my own games. I also have some experience in **2D pixel art**.
 
 ---
 
