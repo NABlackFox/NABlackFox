@@ -37,9 +37,10 @@ Additionally, I am developing a **Discord bot** for my own server, using **JavaS
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
     <a href="https://godotengine.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/godotengine/godot-brand/master/icon/svg/godot_icon_color.svg" alt="GDScript" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot Engine" width="40" height="40"/>
     </a>
 </p>
+
 
 
 ---
