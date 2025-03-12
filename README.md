@@ -40,16 +40,3 @@ Additionally, I am developing a **Discord bot** for my own server, using **JavaS
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot Engine" width="40" height="40"/>
     </a>
 </p>
-
-
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nablackfox&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nablackfox" alt="GitHub Streak" />
-</p>
